@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.0.0</version>
+  <version>0.2.1</version>
   <url>https://github.com/JiangShiqi-afk756/-pvp-/tree/v0.2.1</url>
-  <changelog>1. 修复问题
-2. 优化速度</changelog>
+  <changelog></changelog>
   <mandatory>false</mandatory>
 </item>
