@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>0.2.1</version>
-  <url>https://github.com/JiangShiqi-afk756/-pvp-/releases/download/v0.2.1/JSQ.zip</url>
-  <changelog></changelog>
+  <version>0.2.2</version>
+  <url>https://github.com/JiangShiqi-afk756/-pvp-/blob/656a19b84a637590f60a77bbe3db2465b61db69d/JSQ_0.2.2.zip</url>
+  <changelog>1.测试联网自动更新  2.更新断金戈职业收益</changelog>
   <mandatory>false</mandatory>
 </item>
