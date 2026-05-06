@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>0.2.2</version>
-  <url>https://github.com/JiangShiqi-afk756/-pvp-/blob/656a19b84a637590f60a77bbe3db2465b61db69d/JSQ_0.2.2.zip</url>
+  <url>https://pvp-nsh-jsq.oss-cn-beijing.aliyuncs.com/JSQ_0.2.2.zip?Expires=1778045073&OSSAccessKeyId=TMP.3L1gxNdWaFFkEpoBj4YQmVj7ydF7cHgvjXrbp7jAEVdeoXvC7NTc1b1jeS7g2wjdZ7Y5tWxNBNyq8tVj9AKWGkwpLL8pGY&Signature=7KewIcCR86Pzoqbh0iTh%2FzwzD4w%3D</url>
   <changelog>1.测试联网自动更新  2.更新断金戈职业收益</changelog>
   <mandatory>false</mandatory>
 </item>
